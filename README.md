@@ -4,10 +4,10 @@
   - [面试技巧](#面试技巧)
   - [面经总结](#面经总结)
   - [PDF获取方式](#pdf获取方式)
-  - [勘误](#勘误)
-  - [赞赏](#赞赏)
-  - [微信交流群干货分享](#微信交流群干货分享)
-  - [榜上有名](#榜上有名)
+- [勘误](#勘误)
+- [赞赏](#赞赏)
+- [微信交流群干货分享](#微信交流群干货分享)
+- [榜上有名](#榜上有名)
   
 
 **申明：本资料部分内容转载自网络，请勿用于商业用途。如有侵权，请联系作者删除。**
@@ -38,40 +38,40 @@
 
 ## 嵌入式软件笔试面试知识点总结
 
-[C/C++](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
+[C/C++](知识点总结/CandC++.md)
 
-[数据结构与算法分析](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.md)
+[数据结构与算法分析](知识点总结/数据结构与算法分析.md)
 
-[ARM体系与架构](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/ARM%E4%BD%93%E7%B3%BB%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
+[ARM体系与架构](知识点总结/ARM体系与架构.md)
 
-[Linux驱动](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/Linux%E9%A9%B1%E5%8A%A8.md)
+[Linux驱动](知识点总结/Linux驱动.md)
 
-[操作系统](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+[操作系统](知识点总结/操作系统.md)
 
-[网络编程](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
+[网络编程](知识点总结/网络编程.md)
 
 ## 名企笔试真题
 
-[小米](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/%E5%B0%8F%E7%B1%B3%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AC%94%E8%AF%95%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90.md)
+[小米](./名企笔试真题/小米嵌入式软件工程师笔试题目解析.md)
 
-[联发科](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/%E5%8C%97%E4%BA%AC%E8%81%94%E5%8F%91%E7%A7%91%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AC%94%E8%AF%95%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90.md)
+[联发科](./名企笔试真题/北京联发科嵌入式软件工程师笔试题目解析.md)
 
-[兆易创新](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AC%94%E8%AF%95%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90.md)
+[兆易创新](./名企笔试真题/兆易创新嵌入式软件工程师笔试题目解析.md)
 
 ## 面试技巧
 
-[如何获取就业信息](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E6%A0%A1%E6%8B%9B%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%B8%A0%E9%81%93.md)
+[如何获取就业信息](./笔试面试技巧/校招信息获取渠道.md)
 
-[如何在面试中介绍自己的项目经验](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%9D%A2%E8%AF%95%E4%B8%AD%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C.md)
+[如何在面试中介绍自己的项目经验](./笔试面试技巧/如何在面试中介绍自己的项目经验.md)
 
-[程序员如何写一份合格的简历](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%BB%BD%E5%90%88%E6%A0%BC%E7%9A%84%E7%AE%80%E5%8E%86.md)
+[程序员如何写一份合格的简历](./笔试面试技巧/如何写一份合格的简历.md)
 
 ## 面经总结
-[嵌入式软件工程师的秋招之路](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E7%A7%8B%E6%8B%9B%E4%B9%8B%E8%B7%AF.md)
+[嵌入式软件工程师的秋招之路](./秋招面经总结/嵌入式软件工程师的秋招之路.md)
 
-[嵌入式软件工程师面试经验总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E8%81%94%E5%8F%91%E7%A7%91%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E7%AD%8920%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93.md)
+[嵌入式软件工程师面试经验总结](./秋招面经总结/联发科华为小米等20家公司面经总结.md)
 
-[oppo和海康嵌入式软件工程师面经总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/oppo%E5%92%8C%E6%B5%B7%E5%BA%B7%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB.md)
+[oppo和海康嵌入式软件工程师面经总结](./秋招面经总结/oppo和海康嵌入式软件工程师面经分享.md)
 ## PDF获取方式
 
 加我微信【LinuxDriverDev】，进技术交流群。
@@ -84,7 +84,7 @@
 
 # 勘误
 
-[勘误](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E5%8B%98%E8%AF%AF.md)
+[勘误](./知识点总结/勘误.md)
 
 
 
